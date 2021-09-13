@@ -163,7 +163,7 @@ googleAnalytics = "UA-162550995-8"
 
     [params.summary]
         enable = true
-        text = "Junior Java backend developer who has passed one-year training course with the seasoned Senior Java Developer. The training includes both backend and frontend with the Angular framework to become a full-stack developer. I’ve almost completed the training for Spring MVC and getting ready for my first commercial project."
+        text = "Junior Java backend developer who has passed one-year training course with the seasoned Senior Java Developer. The training includes both backend and frontend with the Angular framework to become a full-stack developer. I’ve completed the training for Spring MVC and started participation in my first commercial project."
 
 
 

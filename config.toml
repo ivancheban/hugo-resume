@@ -134,7 +134,7 @@ googleAnalytics = "UA-162550995-8"
 
         [[params.languages.list]]
         name = "English"
-        level = "Intermediate"
+        level = "A2"
         [[params.languages.list]]
         name = "Ukrainian, Russian"
         level = "Native"
@@ -163,7 +163,8 @@ googleAnalytics = "UA-162550995-8"
 
     [params.summary]
         enable = true
-        text = "Junior Java backend developer who has passed one-year training course with the seasoned Senior Java Developer. The training includes both backend and frontend with the Angular framework to become a full-stack developer. I’ve completed the training for Spring MVC and started participation in my first commercial project."
+        text = "Junior Java backend developer who has passed one-year training course mentored by the seasoned Senior Java Developer. The training includes both backend and frontend with the Angular framework to become a full-stack developer. I’ve completed the training for Spring MVC and started participation in my first commercial project."
+        text1 = "As a junior Java developer, I’m ready to do the routine and monotonous work: write classes, use converter, configure services and repositories."
 
 
 
@@ -261,6 +262,31 @@ googleAnalytics = "UA-162550995-8"
         enable = true
 
         [[params.information.list]]
+        title = "Backend testing frameworks:"
+        [[params.information.list.items]]
+        details = "•	JUnit"
+        [[params.information.list.items]]
+        details = "•	Mocha"
+
+        [[params.information.list]]
+        title = "User registration on backend:"
+        [[params.information.list.items]]
+        details = "•	Configure authentication: login and password"
+        [[params.information.list.items]]
+        details = "•	Configure authorization: admin, guest"
+
+        [[params.information.list]]
+        title = "Database interaction:"
+        [[params.information.list.items]]
+        details = "•	Repository"
+        [[params.information.list.items]]
+        details = "•	Services implementation for the app logic"
+        [[params.information.list.items]]
+        details = "•	DTOs"
+        [[params.information.list.items]]
+        details = "•	Controllers as the way to send requests from frontend and to receive response from backend"
+
+        [[params.information.list]]
         title = "Basic programming concepts"
         [[params.information.list.items]]
         details = "•	Create and initialize variables"
@@ -316,7 +342,7 @@ googleAnalytics = "UA-162550995-8"
         [[params.information.list.items]]
         details = "•	Create a web project and set up Spring Security"
         [[params.information.list.items]]
-        details = "•	Implement dependencies in Maven"
+        details = "•	Implement dependencies in Apache Maven"
         [[params.information.list.items]]
         details = "•	Store data in the DB using a JPA repository"
         [[params.information.list.items]]

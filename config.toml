@@ -134,7 +134,7 @@ googleAnalytics = "UA-162550995-8"
 
         [[params.languages.list]]
         name = "English"
-        level = "A2"
+        level = "B1"
         [[params.languages.list]]
         name = "Ukrainian, Russian"
         level = "Native"

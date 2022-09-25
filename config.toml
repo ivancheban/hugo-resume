@@ -163,7 +163,7 @@ googleAnalytics = "UA-162550995-8"
 
     [params.summary]
         enable = true
-        text = "Junior Java backend developer who has passed one-year training course mentored by the seasoned Senior Java Developer. The training includes both backend and frontend with the Angular framework to become a full-stack developer. I’ve completed the training for Spring MVC and started participation in my first commercial project."
+        text = "Junior Java backend developer with e-commerce experience (developed an online store selling car parts) in 2020-2022. The project included both backend and frontend with the Spring MVC and Angular frameworks as a full-stack developer."
         text1 = "As a junior Java developer, I’m ready to do the routine and monotonous work: write classes, use converter, configure services and repositories."
 
 
@@ -311,6 +311,8 @@ googleAnalytics = "UA-162550995-8"
         [[params.information.list]]
         title = "Java Professional"
         [[params.information.list.items]]
+        details = "•	Java 8"
+        [[params.information.list.items]]
         details = "•	Java Framework Collection"
         [[params.information.list.items]]
         details = "•	Lambda"
@@ -338,19 +340,17 @@ googleAnalytics = "UA-162550995-8"
         details = "•	Servlet API"
 
         [[params.information.list]]
-        title = "Final steps with Spring MVC"
+        title = "Spring MVC"
         [[params.information.list.items]]
-        details = "•	Create a web project and set up Spring Security"
+        details = "•	Createed a web project and set up Spring Security"
         [[params.information.list.items]]
-        details = "•	Implement dependencies in Apache Maven"
+        details = "•	Implemented dependencies in Apache Maven"
         [[params.information.list.items]]
-        details = "•	Store data in the DB using a JPA repository"
+        details = "•	Stored data in the DB using a JPA repository"
         [[params.information.list.items]]
-        details = "•	Implement Controllers on the backend side and show data on the client side using Thymeleaf and Bootstrap"
+        details = "•	Implemented Controllers on the backend side and showed data on the client side using Thymeleaf and Bootstrap"
         [[params.information.list.items]]
         details = "•	Full stack web developer with Angular framework"
-        [[params.information.list.items]]
-        details = "•	Participate in the commercial project"
 
 
 
